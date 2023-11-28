@@ -1,0 +1,125 @@
+# DCIT_205_IA
+
+**A BRIEF INTRODUCTION AND PURPOSE OF THE WEBSITE**
+
+Learning to create a website for a computer science department involves gaining skills in web development, content management, and possibly some knowledge of databases and server-side technologies. These skills are not only valuable for this specific context but are also widely applicable in the field of web development and technology.
+
+
+**DETAILED INSTRUCTION ON HOW TOCLONE AND SET UP THE PROJECT**
+
+Prerequisites:
+
+-Git Installed:
+
+Make sure Git is installed on your machine. You can download it from https://git-scm.com/.
+-GitHub Account:
+
+If the project is hosted on GitHub, make sure you have a GitHub account.
+Cloning the Project:
+Open a Terminal or Command Prompt:
+
+Open the terminal or command prompt on your machine.
+Navigate to the desired directory:
+
+Use the cd command to navigate to the directory where you want to clone the project.
+
+Clone the repository:
+
+Use the git clone command to clone the repository. Replace the <repository-url> with the actual URL of the Git repository.
+
+
+Setting Up the Project:
+- Navigate to the Project Directory:
+
+Use the cd command to enter the project directory.
+
+- Install dependencies:
+
+Depending on the project, you might need to install dependencies.
+- Configuration:
+
+Some projects might require configuration files. Check for any configuration files (e.g.,.env files) and set the necessary values.
+Database Setup (if applicable):
+
+If the project uses a database, you might need to set up a database and run migrations. This varies depending on the project's technology stack.
+Start the application.
+
+Depending on the project, there might be different commands to start the application. 
+Access the application:
+
+Once the application is running, open a web browser and navigate to the specified address (e.g., http://localhost:3000).
+
+
+**STUDENT NAME AND ID**
+
+*Kwame Valentine Kraidy Solomon.(11329524)*
+
+
+**SCREENSHOTS OF EACH WEBSITE**
+![Alt text](screenshot1/ScreenShot_1.jpeg)
+
+![Alt text](screenshot1/ScreenShot_2.jpeg)
+
+![Alt text](screenshot1/ScreenShot8.jpeg)
+
+![Alt text](screenshot1/ScreenShot_3.jpeg)
+
+![Alt text](screenshot1/ScreenShot_4.jpeg)
+
+![Alt text](screenshot1/ScreenShot_5.jpeg)
+
+![Alt text](screenshot1/ScreenShot_6.jpeg)
+
+![Alt text](screenshot1/ScreenShot_7.jpeg)
+
+![Alt text](<screenshot1/ScreenShot_7 - Copy.jpeg>)
+**WHAT I HAVE LEARNT FROM THE PROJECT**
+
+Technical Skills:
+
+Programming Languages: Exposure to and proficiency in the programming languages used in the project.
+Frameworks and Libraries: Understanding and usage of specific frameworks or libraries relevant to the project.
+Version Control: Proficiency in using Git for version control.
+Project Structure and Organization:
+
+File and Directory Structure: Understanding how the project is organized, where to find specific files, and how different components and modules interact
+Code modularization: breaking down the code into smaller, manageable modules for better maintainability.
+Collaboration and Teamwork:
+
+Version Control Collaboration: Experience in collaborating with team members using version control systems like Git.
+Communication: Improved communication skills through collaboration with team members or project stakeholders.
+Problem-Solving:
+
+Debugging: Enhanced debugging skills to identify and fix issues in the code.
+Problem-solving Strategies: Developing strategies for tackling challenges encountered during development.
+Development Tools:
+
+IDEs/Editors: Familiarity with the Integrated Development Environment (IDE) or code editor used for the project.
+Command Line Usage: Improved command line skills for running scripts, managing dependencies, etc.
+Testing and Quality Assurance:
+
+Unit Testing: Understanding and implementation of unit tests for ensuring code quality.
+Quality Assurance: Exposure to practices for ensuring the overall quality of the project.
+Project Management:
+
+Task Management: Experience in using project management tools for organizing and tracking tasks.
+Time Management: Improved time management skills in meeting project deadlines
+Deployment and Hosting:
+
+Deployment Procedures: Knowledge of how to deploy the application to a server or hosting platform.
+Server Configuration: Understanding basic server configurations for hosting web applications
+Documentation:
+
+Code Documentation: The importance of documenting code for future reference and collaboration
+Readme Files: Creating informative readme files for the project
+Continuous Learning:
+
+Research and Exploration: Developing a habit of researching new technologies or concepts as needed for the project
+Adaptability: learning to adapt to new tools and technologies as the project evolves.
+Soft Skills:
+
+Team Communication: Improved communication within the project team.
+Adaptability: Developing adaptability to changing project requirements or priorities.
+
+
+

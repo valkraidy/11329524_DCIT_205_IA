@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSD Sign up</title>
+    
+    <style>
+        body {
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color:white;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 400px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+        }
+        .container h2 {
+            margin: 0 0 20px;
+            color: rgb(30, 30, 66);
+        }
+        .form-group {
+            margin: 0 0 15px;
+            text-align: left;
+        }
+        .form-group label {
+            font-weight: large;
+        }
+        .form-group input {
+            width: 90%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .form-group button {
+            background: rgb(30, 30, 66);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+            width: 95%;
+            cursor: pointer;
+        }
+        .form-group button:hover {
+            background: #0056b3;
+        }
+
+        .radio-inline{
+           text-align: left;
+           float: left;
+           margin: 10px;
+        }
+    </style>
+</head>
+<body>
+   <img src="/comScience_logo.png" alt="">
+    <div class="container">
+        <h2>Sign up to DCS</h2>
+        <form action="your_server_endpoint.php" method="post">
+            <div class="form-group">
+                <label for="name">Full name</label>
+                <input type="text" id="name" placeholder="" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="" name="email" required>
+            </div>
+            <div>
+                <label for="qwwe" class="radio-inline"><input type="radio" name="qwer" value="">You agree to our friendly <a href="#">privacy policy</a>.</label>
+              </div>
+              <br>
+            <div class="form-group">
+                <button type="submit">Sign Up</button>
+            </div>
+            <div>
+
+               <label for="text">Already have an acccount <a href="/login.html">Login </a> .</label> 
+
+            </div>
+        </form>
+    </div>
+</body>
+</html>
